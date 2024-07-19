@@ -1,0 +1,14 @@
+body{
+    padding-top: 56px;
+}
+
+.hero {
+    background: url('https://static.vecteezy.com/ti/vetor-gratis/p1/2468358-icone-de-aviao-plano-no-fundo-azul-gratis-vetor.jpg') no-repeat center  ;
+    background-size: cover;
+    color: #fff;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
